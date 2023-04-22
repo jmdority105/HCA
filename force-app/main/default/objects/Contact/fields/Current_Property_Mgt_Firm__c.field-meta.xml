@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Current_Property_Mgt_Firm__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>Provide Property Management information such as name, address, phone, and email</inlineHelpText>
+    <label>Current Property Mgt Firm</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>TextArea</type>
+</CustomField>
